@@ -1,6 +1,4 @@
-Voici le contenu du fichier `README.md` au format de code :
 
-```markdown
 # Temperature Converter - SEG 3502 Lab 9
 
 **Auteur :** Gbegbe Decaho  
@@ -108,6 +106,3 @@ L'application prend en charge l'authentification en mémoire avec trois utilisat
 
 **Nom :** Gbegbe Decaho  
 **Numéro étudiant :** 300094197  
-```
-
-Vous pouvez copier et coller ce contenu directement dans un fichier nommé `README.md` dans le répertoire racine de votre projet.
